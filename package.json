@@ -1,0 +1,16 @@
+{
+  "name": "circle-hover-effects",
+  "version": "1.0.0",
+  "description": "Created by Codrops: http://tympanus.net/codrops",
+  "main": "index.html",
+  "dependencies": {
+    "stylelint-config-standard": "^12.0.0",
+    "stylelint": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
